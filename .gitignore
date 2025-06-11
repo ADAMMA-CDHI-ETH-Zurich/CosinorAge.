@@ -1,0 +1,18 @@
+/cosinorage.egg-info/
+/R/
+/.idea/
+/data/
+/examples/ukb_example.ipynb
+/examples/ukb_cosinorage.py
+/joss/
+/experiments/
+cosinor_results*
+/dist/
+
+
+*.pkl
+
+.DS_Store
+
+# VS Code workspace files
+*.code-workspace
